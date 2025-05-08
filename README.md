@@ -4,9 +4,9 @@ Hướng dẫn tải và cài đặt
 
 để tải Chạy git clone https://github.com/krissheartfelt/video-stego-lsb-2.git
 
+vào thư mục : cd video-stego-lsb-2
 
-
-tiếp theo giải nén : tar -xvf imodule.tar.xz
+tiếp theo giải nén : tar -xvf video-stego-lsb-2.xz
 
 
 
